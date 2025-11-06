@@ -1,1 +1,1 @@
-consol.log('Version 4 - bug added');
+console.log('Version 5 - working fine');
